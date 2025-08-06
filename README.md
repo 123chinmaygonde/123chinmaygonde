@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @123chinmaygonde software Engineer
-- 👀 I’m interested in ... java development, Web development and love to contribute on projects
-- 🌱 I’m currently learning ... mern stack development to learn web development end to end
-- 💞️ I’m looking to collaborate on ... front end projects 
+- 👀 I’m interested in ... Gen AI Development, Java full stack development , Mern Development an love to contribute on projects.
+- 🌱 I’m currently learning ... Test Driven Development and Devops.
+- 💞️ I’m looking to collaborate on ... Java full stack projects 
 - 📫 How to reach me ... gondechinmay@gmail.com 
 - 😄 Pronouns: ...chinmay
 - ⚡ Fun fact: ... i love to explore new technologies
