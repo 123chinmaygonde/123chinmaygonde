@@ -34,3 +34,7 @@ You can click the Preview link to take a look at your changes.
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=123chinmaygonde&theme=tokyonight)
 ![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=123chinmaygonde&theme=tokyonight)
 
+### 📈 Contribution Graph
+![Chinmay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=123chinmaygonde&theme=tokyo-night)
+
+
