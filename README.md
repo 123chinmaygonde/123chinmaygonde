@@ -17,3 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=123chinmaygonde&theme=tokyonight)
 
+### 💻 Languages Used
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=123chinmaygonde&layout=compact&theme=tokyonight)
+
