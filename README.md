@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=123chinmaygonde&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=123chinmaygonde&theme=tokyonight)
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=123chinmaygonde&theme=tokyonight)
 
