@@ -28,3 +28,9 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Most Used Languages (with %)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=123chinmaygonde&theme=tokyonight)
+![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=123chinmaygonde&theme=tokyonight)
+
