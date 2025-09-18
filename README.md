@@ -9,9 +9,6 @@
 <!---
 123chinmaygonde/123chinmaygonde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123chinmaygonde&show_icons=true&theme=tokyonight)
+--->![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=123chinmaygonde&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=123chinmaygonde&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123chinmaygonde&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=123chinmaygonde&layout=compact&theme=tokyonight)
